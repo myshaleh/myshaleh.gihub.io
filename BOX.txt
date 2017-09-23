@@ -1,0 +1,27 @@
+<div class="container">
+    <div class="row">
+      <article class="col-md-3 post post-1430 type-post status-publish format-image has-post-thumbnail hentry category-_ category-43 category-41 tag-ipau tag-xipa post_format-post-format-image">
+  
+</article><!-- /.post -->
+<article class="col-md-6 post big-post post-1396 type-post status-publish format-standard has-post-thumbnail hentry category-43 category-36 category-41">
+  <div class="inner-post">
+        <div style="background-image: url(andlus.jpg);" class="post-thumbnail col-md-6 pull-left"></div>
+
+    <div class="post__data col-md-6">
+      <div class="cats">
+              </div>
+      <h1 class="post__title"><a href="https://zeexpert.net/storenaruto1/">شالية ريلاكس</a> <a href="#" style="background-color: #">1400 ريال</a></h1>
+      <div class="post__desc">بريدة - الوادي</div>
+
+      
+    </div>
+	
+	
+
+      
+    </div>
+
+    <div class="clearfix"></div>
+  </article></div>
+
+		</div>

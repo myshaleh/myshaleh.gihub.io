@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Picalica';
+  src:url('../fonts/Picalica/Picalica.eot?-h8qbqy');
+  src:url('../fonts/Picalica/Picalica.eot?#iefix-h8qbqy') format('embedded-opentype'),
+    url('../fonts/Picalica/Picalica.ttf?-h8qbqy') format('truetype'),
+    url('../fonts/Picalica/Picalica.woff?-h8qbqy') format('woff'),
+    url('../fonts/Picalica/Picalica.svg?-h8qbqy#Picalica') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
